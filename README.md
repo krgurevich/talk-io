@@ -18,6 +18,7 @@ When you first access the web app, you are presented with an option to "Enter Ch
 
 ## Links:
 GitHub: https://github.com/krgurevich/talk-io
+
 Heroku Web App: https://talkio.herokuapp.com/
 
 ## License
