@@ -1,25 +1,24 @@
-# Talk-IO, the real time chat app!
+# Talk-IO
+The real time chat app!
 
-# Description:
+## Description:
 
-## Welcome everyone! This is Talk-IO, the private messaging website that you can use to talk to people that you know, and to hide messages from people that you don't know!
+Welcome to TalkIO, the private messaging app that you can use to chat with people you know and to hide messages from people that you don't know!
 
-# Tech Used:
+## Packages Used:
 
-## HTML, CSS, JavaScript, Node.js, Express.js, MySQL2, Sequelize, BCrypt, .env, API, HandleBars, Socket.iO 
+HTML, CSS, JavaScript, Node.js, Express.js, MySQL2, Sequelize, BCrypt, .env, API, HandleBars, Socket.iO 
 
-# Screenshots:
+## Screenshots:
 
-## When you first enter the website, you are presented with two options. In case you don't have an account, you can create a new one. If you already have one, you can log right in!
+When you first access the web app, you are presented with an option to "Enter Chat Room". The system redirects the user to the Login Page.  You can either login, if you are an existing user, or create a new account, if you are new to the app. Let's Chat!
 
 ![](./Public/images/letschat.png)
-
-# This is a screenshot of the website in action:
-
 ![](./Public/images/room1.png)
 
-# Link to the deployed application (heroku):
+## Links:
+GitHub: https://github.com/krgurevich/talk-io
+Heroku Web App: https://talkio.herokuapp.com/
 
-## https://talkio.herokuapp.com/
-
-
+## License
+MIT License
